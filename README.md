@@ -10,6 +10,7 @@ This is a simple tool to shape an OpenAPI Specification (OAS) file. It can be us
 Validate an OAS file:
 
 ```bash
+# NOT WORKING YET!
 $ npx oas-shaper validate -f <path-to-oas-file>
 ```
 
